@@ -3,7 +3,7 @@
 An interactive, responsive web application that calculates a user's precise age in years, months, and days based on their birthdate input. Built as part of a front-end coding challenge to practice form validation and DOM manipulation.
 
 ## 🚀 Live Demo
-🔗 **[View Live Project](https://student-ranking-system-eight.vercel.app/)** *(Update this link if hosted on Vercel/GitHub Pages)*
+🔗 **[View Live Project](https://age-calculator-app-main-three-chi.vercel.app/)
 
 ---
 
